@@ -1,0 +1,12 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "ruby",
+      "package-name": "apiwork-rspec",
+      "version-file": "lib/apiwork/rspec/version.rb",
+      "changelog-path": "CHANGELOG.md",
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true
+    }
+  }
+}

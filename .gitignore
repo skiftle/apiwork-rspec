@@ -1,0 +1,21 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# OS files
+.DS_Store
+
+# Gem files
+*.gem
+
+# RSpec status file
+.rspec_status
+
+# Claude Code - local files
+/.claude/*.local.json
+/.claude/plans/
