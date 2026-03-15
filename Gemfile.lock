@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    apiwork-rspec (0.1.0)
+    apiwork-rspec (0.1.1)
       apiwork (>= 0.1)
       rspec (>= 3.0)
 
