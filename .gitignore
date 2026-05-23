@@ -19,3 +19,4 @@
 # Claude Code - local files
 /.claude/*.local.json
 /.claude/plans/
+*.local.*
