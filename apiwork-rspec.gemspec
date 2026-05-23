@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'apiwork', '>= 0.1'
   s.add_dependency 'rspec', '>= 3.0'
 
-  s.add_development_dependency 'lefthook', '~> 1.0'
+  s.add_development_dependency 'lefthook', '~> 2.1'
   s.add_development_dependency 'rake', '~> 13.0'
   s.add_development_dependency 'rubocop-skiftle', '~> 0.1'
 
